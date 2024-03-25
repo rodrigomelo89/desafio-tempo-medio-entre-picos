@@ -35,7 +35,7 @@ No entanto, a maior dificuldade foi criar a função que gerasse sinais aleatór
 
 Como mencionado, a função foi elaborada em Python 3.10.9. Portanto, é necessário instalar esta versão. Além disso, é necessário instalar todas as bibliotecas necessárias, o que pode ser feito com o comando "pip install -r requirements.txt" no terminal.
 
-Com as instalações completas, basta executar o código `main_entre_picos`. No terminal, navegue até o diretório onde o repositório foi clonado e execute o comando "python main_entre_picos.py". O código está configurado para executar testes com sinais aleatórios gerados pela função `teste_exemplos`. Se desejar testar com algum sinal específico, basta adicionar o arquivo txt com os valores no repositório, abrir o arquivo `main_entre_picos.py` e modificar as linhas abaixo:
+Com as instalações completas, basta executar o código `main_entre_picos`. No terminal, navegue até o diretório onde o repositório foi clonado e execute o comando "python main_entre_picos.py". O código está configurado para executar testes com sinais aleatórios gerados pela função `teste_exemplos`. Se desejar testar com algum sinal específico, basta adicionar o arquivo txt com os valores no repositório, abrir o arquivo [main_entre_picos.py](https://github.com/rodrigomelo89/desafio-tempo-medio-entre-picos/blob/main/main_entre_picos.py) e modificar as linhas abaixo:
 
 ```
 teste_exemplos(200)
